@@ -2,8 +2,6 @@
 
 ## Experiment 1
 
-ASHUTOSH SINGH (23070123033)
-
 ### Aim:
 
 C++ Program to Make a Simple Calculator.
